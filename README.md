@@ -197,7 +197,7 @@ A **Flutter** mobile app that lets parents manage and supervise their children's
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-🔗 [Repo](https://github.com/VinayakKharade03) *(add link)*
+🔗 [View Repo](https://github.com/VinayakKharade03/REPLACE-MINORPAY-REPO)
 
 </details>
 
@@ -213,7 +213,7 @@ An AI customer support agent using **boAt** as a case study, going beyond a plai
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-🔗 [Repo](https://github.com/VinayakKharade03) *(add link)*
+🔗 [View Repo](https://github.com/VinayakKharade03/REPLACE-SUPPORTIQ-REPO)
 
 </details>
 
@@ -228,7 +228,7 @@ End-to-end fraud detection using ML on real-world financial data, reaching **95%
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-🔗 [Repo](https://github.com/VinayakKharade03) *(add link)*
+🔗 [View Repo](https://github.com/VinayakKharade03/REPLACE-FRAUD-DETECTION-REPO)
 
 </details>
 
@@ -244,7 +244,7 @@ Modular full-stack hospital system with **5 role-based user types**, a complete 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-🔗 [Repo](https://github.com/VinayakKharade03) *(add link)*
+🔗 [View Repo](https://github.com/VinayakKharade03/REPLACE-CARECONNECT-REPO)
 
 </details>
 
@@ -264,12 +264,7 @@ Modular full-stack hospital system with **5 role-based user types**, a complete 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VinayakKharade03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakKharade03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 <img src="https://streak-stats.demolab.com?user=VinayakKharade03&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=VinayakKharade03&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
